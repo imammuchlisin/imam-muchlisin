@@ -1,0 +1,24 @@
+NAMA : Imam Muchlisin
+USERNAME : 7203098
+KELAS : A_AI
+
+	analisis materi dengan topik Git.
+       GIT adalah sebuah tools bagi para programmer dan developer yang berfungsi sebagai control system untuk menjalankan proyek pengembangan software. GIT adalah singkatan dari Group Inclusive Tour. Tujuan penggunaan GIT yakni untuk mengelola versi source code program dengan menentukan baris serta kode yang akan ditambahkan atau diganti. Git adalah sebuah version control system terbuka yang dikembangkan oleh Linus Torvalds pada tahun 2005. Linus Torvalds juga merupakan pengembang sistem kernel dari sistem operasi Linux. Saat ini, Git merupakan version control system paling populer digunakan. Ada ratusan proyek software yang mengandalkan Git sebagai version control system mereka termasuk proyek komersial serta open source. Git terkategori dalam DVCS (Distributed Version Control System), yang artinya kode tidak hanya memiliki satu tempat penyimpanan sejarah lengkap sebuah software. GIT adalah salah satu tipe version control sistem(VCS) yang memudahkan proses pelacakan dan pencatatan perubahan dari  sebuah dokumen. Hal ini memudahkan developer untuk melihat secara detail perubahan yang terjadi pada kode aplikasi atau website.
+       Version Control System
+       Version Control System adalah sebuah kategori software yang membantu sebuah tim software mengelola perubahan pada source code. Version control system mencatat semua modifikasi yang dilakukan ke kode di sebuah database khusus. Untuk semua projek software, source code adalah sebuah asset yang penting. Untuk kebanyakan orang, source code adalah tempat penyimpanan pengetahuan dan pemahaman yang tak ternilai tentang berbagai masalah yang dicatat dan diperbaiki oleh para developer. Version control melindungi source code dari berbagai masalah atau kesalahan manusia dan konsekuensi yang tidak diinginkan. 
+       Fitur dan Keunggulan GIT 
+1. Distributed Version Control System
+Salah satu fitur paling terkenal dan kuat dari Git adalah kemampuannya sebagai Distributed Version Control System (DVCS). Dengan DVCS, setiap pengembang dapat memiliki salinan lengkap dari seluruh repositori, sehingga memudahkan untuk memeriksa perubahan, melakukan rollback, dan memecahkan konflik. Selain itu, DVCS juga memungkinkan untuk membuat cabang kode baru yang dapat digunakan untuk mengembangkan fitur baru atau menyelesaikan masalah tanpa mempengaruhi kode utama.
+2. Speed and Performance
+Salah satu keunggulan utama dari Git adalah kecepatannya. Git dirancang untuk bekerja cepat, bahkan pada proyek yang sangat besar sekalipun. Git menggunakan teknik caching dan kompresi data yang efisien sehingga operasi seperti commit, merge, dan branching dapat dilakukan dengan cepat. Selain itu, Git juga dapat memproses perubahan dan sinkronisasi antar repositori dalam waktu yang sangat singkat.
+3. Branching and Merging
+Fitur branch dan merge pada GIT memungkinkan pengembang untuk membuat cabang source code baru tanpa mempengaruhi kode utama. Pengembang dapat membuat cabang untuk mengembangkan fitur baru, menyelesaikan masalah, atau melakukan percobaan tanpa harus mempengaruhi kode utama.
+4. Collaboration
+GIT memungkinkan tim developer untuk bekerja secara kolaboratif pada proyek perangkat lunak. Tim pengembang dapat mengelola repositori bersama dan melakukan sinkronisasi atau menggabungkan perubahan dari seluruh anggota tim. Git juga dapat digunakan untuk melakukan code review, yaitu proses peninjauan kode oleh anggota tim atau oleh kontributor terkait kode yang dikirimkan sebelum diintegrasikan ke kode utama.
+5. Security
+GIT memiliki fitur keamanan yang kuat. Git menggunakan enkripsi dan otorisasi yang aman untuk melindungi kode sumber dan repositori dari serangan atau kebocoran data.
+6. Open Source
+GIT adalah perangkat lunak open source, yang berarti bahwa kode sumbernya dapat diakses dan dimodifikasi oleh siapa saja. Hal ini memungkinkan pengembang untuk mengembangkan dan memodifikasi Git sesuai dengan kebutuhan mereka.
+7. Cross-platform
+GIT dapat digunakan pada berbagai platform, seperti Windows, macOS, dan Linux. Hal ini memungkinkan developer untuk bekerja pada proyek menggunakan sistem operasi.
+
